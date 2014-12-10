@@ -1,0 +1,14 @@
+{
+    "application": "Paytrail",
+    "version": "1.0.0",
+    "author": "webvaloa.com",
+    "email": "info@webvaloa.com",
+    "www": "http://www.getvaloa.com/",
+    "license": "MIT",
+    "anonymous": "0",
+    "files": [
+        { "vendor": "/ValoaApplication/Controllers/Paytrail/S1Controller.php" },
+        { "vendor": "/ValoaApplication/Controllers/Paytrail/Views/S1.xsl" }
+    ]
+
+}
