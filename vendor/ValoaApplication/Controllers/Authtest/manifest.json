@@ -1,0 +1,15 @@
+{
+    "application": "Authtest",
+    "version": "1.0.0",
+    "author": "webvaloa.com",
+    "email": "info@webvaloa.com",
+    "www": "http://www.getvaloa.com/",
+    "license": "MIT",
+    "anonymous": "1",
+    "systemcontroller": "0",
+    "files": [
+        { "vendor": "/ValoaApplication/Controllers/Authtest/AuthtestController.php" },
+        { "vendor": "/ValoaApplication/Controllers/Authtest/Views/Authtest.xsl" }
+    ]
+
+}
