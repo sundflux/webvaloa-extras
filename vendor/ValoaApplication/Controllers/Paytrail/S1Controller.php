@@ -34,7 +34,7 @@ namespace ValoaApplication\Controllers\Paytrail;
 
 // Libvaloa classes
 use Libvaloa\Debug;
-use Libvaloa\Controller\Redirect;
+use Webvaloa\Controller\Redirect;
 
 // Webvaloa classes
 use Webvaloa\Configuration;
