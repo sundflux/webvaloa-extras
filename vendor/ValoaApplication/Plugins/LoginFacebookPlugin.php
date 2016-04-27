@@ -53,7 +53,7 @@ require_once LIBVALOA_EXTENSIONSPATH . "/facebook-php-sdk/src/facebook.php";
 
 // Libvaloa classes
 use Libvaloa\Debug;
-use Libvaloa\Auth\Auth;
+use Webvaloa\Auth\Auth;
 
 // Webvaloa classes
 use Webvaloa\User;
